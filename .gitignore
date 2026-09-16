@@ -1,0 +1,11 @@
+# PlatformIO and Zephyr build output
+.pio/
+build/
+
+# Local editor configuration
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
